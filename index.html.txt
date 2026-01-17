@@ -1,0 +1,32 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Pancake Recipe</title>
+  </head>
+  <body>
+    <h1>Pankcake Recipe</h1>
+    <p> This is a common breakfast item used to make a quick meal. Great to cook for children or large gatherings.</p>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf5KFb8te2Hzxr31RsKjZgv1Pa6sIZHId6TNvHl14hzpoETek2eyYgIXuaZR6zuy2vqGiqT_4P5GAswXU0GP87cgpUWdVWt_ZS3liShpWZ&s=10" alt="Fluffy pancakes with crispy edges">
+    <h2>Ingredients</h2>
+    <ul>
+      <li>1 eggs</li>
+      <li>1 cups of flour</li>
+      <li>1 1/2 cups water</li>
+      <li>1/2 cups of baking powder</li>
+      <li>3 tbsp of sugar</li>   
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>In a bowl add flour, eggs,baking powder and sugar</li>
+      <li>Use whisk and mix until the mix is not thick or watery</li>
+      <li>In a saucepan melt or heat oil in the pan evenly</li> 
+      <li>Once pan is coated and hot, pour even amounts of pancake mix on to the pan, flip when you see the uncooked side bubble for a nice crispy edge</li>
+    </ol>
+  </body>
+</html>
+
+** end of index.html **
+
